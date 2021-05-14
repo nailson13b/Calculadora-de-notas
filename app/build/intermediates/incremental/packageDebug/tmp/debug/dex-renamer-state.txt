@@ -1,0 +1,4 @@
+#Fri May 14 19:18:24 GMT-03:00 2021
+base.0=C\:\\workspace\\BootcampEveris\\Calculadora\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,2 @@
+com/example/calculadoradenotas/BuildConfig.java
+ com.example.calculadoradenotas.BuildConfig
